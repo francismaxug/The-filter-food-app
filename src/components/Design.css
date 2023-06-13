@@ -1,0 +1,69 @@
+.simple{
+  /* border: 1px solid red; */
+  /* width: 100%; */
+  margin-top: 20px;
+  border-radius: 7px;
+  background: rgba(184, 117, 23, 0.651);
+  margin-right: 18.7px;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+}
+
+.simple:hover{
+  transform: scale(1.05);
+}
+input{
+  text-align: center;
+  line-height: 30px; 
+  border: 1px solid black;
+  outline: none;
+  border-radius: 3px;  
+  font-family: 'Lobster', cursive;
+}
+
+.simple img{
+  width: 220px;
+  height: 210px;
+  border-radius: 50px;
+}
+.img{
+margin-top: 20px;
+margin-left: 24.5px;
+}
+.kaka{
+  text-align: center;
+  font-size: 35px;
+  font-family: 'Lobster', cursive;
+  font-weight: 200;
+}
+.kakaa{
+  text-align: center;
+  padding: 0;
+  text-align: center;
+  margin: 0 auto;
+  width: 55%;
+  /* border: 1px solid red; */
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-between; */
+  
+}
+
+.enter{
+  margin: 0 auto;
+  width: 80%;
+  margin-top: 150px;
+  
+}
+.enter h2{
+  color: rgba(181, 33, 33, 0.733);
+  text-align: center;
+
+}
+.class{
+  margin-bottom: 15px;
+}
